@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/noughts-and-crosses/static/css/main.27bcb9f9.chunk.css",
+    "main.js": "/noughts-and-crosses/static/js/main.70bbf39b.chunk.js",
+    "main.js.map": "/noughts-and-crosses/static/js/main.70bbf39b.chunk.js.map",
+    "runtime-main.js": "/noughts-and-crosses/static/js/runtime-main.715cc33f.js",
+    "runtime-main.js.map": "/noughts-and-crosses/static/js/runtime-main.715cc33f.js.map",
+    "static/js/2.12ec462e.chunk.js": "/noughts-and-crosses/static/js/2.12ec462e.chunk.js",
+    "static/js/2.12ec462e.chunk.js.map": "/noughts-and-crosses/static/js/2.12ec462e.chunk.js.map",
+    "index.html": "/noughts-and-crosses/index.html",
+    "static/css/main.27bcb9f9.chunk.css.map": "/noughts-and-crosses/static/css/main.27bcb9f9.chunk.css.map",
+    "static/js/2.12ec462e.chunk.js.LICENSE.txt": "/noughts-and-crosses/static/js/2.12ec462e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.715cc33f.js",
+    "static/js/2.12ec462e.chunk.js",
+    "static/css/main.27bcb9f9.chunk.css",
+    "static/js/main.70bbf39b.chunk.js"
+  ]
+}
